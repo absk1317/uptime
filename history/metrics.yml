@@ -1,7 +1,7 @@
 - url: https://metrics.anar.biz
-- status: down
+- status: up
 - code: 200
-- responseTime: 1087
-- lastUpdated: 2020-11-19T06:51:35.442Z
+- responseTime: 1097
+- lastUpdated: 2020-11-19T06:57:22.477Z
 - startTime: 2020-11-19T03:54:59.249Z
 - generator: Upptime <https://github.com/upptime/upptime>
