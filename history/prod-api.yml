@@ -1,7 +1,7 @@
 - url: https://api.anar.biz/public/health
-- status: up
+- status: down
 - code: 200
-- responseTime: 900
-- lastUpdated: 2020-11-19T04:14:43.254Z
+- responseTime: 943
+- lastUpdated: 2020-11-19T06:51:26.702Z
 - startTime: 2020-11-19T04:14:42.350Z
 - generator: Upptime <https://github.com/upptime/upptime>
