@@ -3,56 +3,56 @@
     "name": "Landing",
     "url": "https://anar.biz",
     "slug": "landing",
-    "status": "down",
-    "uptime": "99.60",
-    "time": 1112
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1067
   },
   {
     "name": "Prod API",
     "url": "https://api.anar.biz/public/health",
     "slug": "prod-api",
-    "status": "down",
-    "uptime": "99.62",
-    "time": 921
+    "status": "up",
+    "uptime": "100.00",
+    "time": 924
   },
   {
     "name": "Gitlab",
     "url": "https://vault.anar.biz",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "99.69",
-    "time": 774
+    "status": "up",
+    "uptime": "100.00",
+    "time": 742
   },
   {
     "name": "Sentry",
     "url": "https://sentry.anar.biz",
     "slug": "sentry",
-    "status": "down",
-    "uptime": "99.72",
-    "time": 823
+    "status": "up",
+    "uptime": "100.00",
+    "time": 791
   },
   {
     "name": "Metrics",
     "url": "https://metrics.anar.biz",
     "slug": "metrics",
-    "status": "down",
-    "uptime": "99.75",
-    "time": 1192
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1160
   },
   {
     "name": "QA mweb",
     "url": "https://staging.anar.biz",
     "slug": "qa-mweb",
-    "status": "down",
-    "uptime": "99.72",
-    "time": 903
+    "status": "up",
+    "uptime": "100.00",
+    "time": 908
   },
   {
     "name": "QA",
     "url": "https://qa.anar.biz/public/health",
     "slug": "qa",
-    "status": "down",
-    "uptime": "99.94",
-    "time": 6566
+    "status": "up",
+    "uptime": "100.00",
+    "time": 5145
   }
 ]
