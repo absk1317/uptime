@@ -1,42 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Home",
+    "url": "https://anar.biz",
+    "slug": "home",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 1042
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Gitlab",
+    "url": "https://vault.anar.biz",
+    "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 140
+    "time": 776
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Sentry",
+    "url": "https://sentry.anar.biz",
+    "slug": "sentry",
     "status": "up",
     "uptime": "100.00",
-    "time": 337
+    "time": 925
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Metrics",
+    "url": "https://metrics.anar.biz",
+    "slug": "metrics",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1297
+  },
+  {
+    "name": "QA",
+    "url": "https://qa.anar.biz",
+    "slug": "qa",
     "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 50
+    "uptime": "20.23",
+    "time": 1084
   }
 ]
