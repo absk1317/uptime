@@ -4,16 +4,21 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Home
+  - name: Landing
     url: https://anar.biz
+  - name: Prod API
+    url: https://api.anar.biz/public/health
   - name: Gitlab
     url: https://vault.anar.biz
   - name: Sentry
     url: https://sentry.anar.biz
   - name: Metrics
     url: https://metrics.anar.biz
+  - name: QA mweb
+    url: https://staging.anar.biz
   - name: QA
-    url: https://qa.anar.biz
+    url: https://qa.anar.biz/public/health
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
