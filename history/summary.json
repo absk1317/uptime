@@ -1,11 +1,19 @@
 [
   {
-    "name": "Home",
+    "name": "Landing",
     "url": "https://anar.biz",
-    "slug": "home",
+    "slug": "landing",
     "status": "up",
     "uptime": "100.00",
-    "time": 1042
+    "time": 1151
+  },
+  {
+    "name": "Prod API",
+    "url": "https://api.anar.biz/public/health",
+    "slug": "prod-api",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 900
   },
   {
     "name": "Gitlab",
@@ -32,11 +40,19 @@
     "time": 1297
   },
   {
+    "name": "QA mweb",
+    "url": "https://staging.anar.biz",
+    "slug": "qa-mweb",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 901
+  },
+  {
     "name": "QA",
-    "url": "https://qa.anar.biz",
+    "url": "https://qa.anar.biz/public/health",
     "slug": "qa",
-    "status": "down",
-    "uptime": "11.91",
-    "time": 1084
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1005
   }
 ]
