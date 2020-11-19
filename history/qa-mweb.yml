@@ -1,7 +1,7 @@
 - url: https://staging.anar.biz
-- status: up
+- status: down
 - code: 200
-- responseTime: 901
-- lastUpdated: 2020-11-19T04:14:47.131Z
+- responseTime: 906
+- lastUpdated: 2020-11-19T06:51:38.136Z
 - startTime: 2020-11-19T04:14:46.227Z
 - generator: Upptime <https://github.com/upptime/upptime>
