@@ -1,7 +1,7 @@
 - url: https://vault.anar.biz
-- status: down
+- status: up
 - code: 200
-- responseTime: 772
-- lastUpdated: 2020-11-19T06:51:29.456Z
+- responseTime: 678
+- lastUpdated: 2020-11-19T06:57:17.845Z
 - startTime: 2020-11-19T03:54:56.445Z
 - generator: Upptime <https://github.com/upptime/upptime>
