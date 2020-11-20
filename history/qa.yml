@@ -1,7 +1,7 @@
 - url: https://qa.anar.biz/public/health
 - status: up
 - code: 200
-- responseTime: 961
-- lastUpdated: 2020-11-19T23:12:05.606Z
+- responseTime: 881
+- lastUpdated: 2020-11-20T23:12:09.621Z
 - startTime: 2020-11-19T03:55:01.226Z
 - generator: Upptime <https://github.com/upptime/upptime>
