@@ -4,55 +4,55 @@
     "url": "https://anar.biz",
     "slug": "landing",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1007
+    "uptime": "100.00%",
+    "time": 1022
   },
   {
     "name": "Prod API",
     "url": "https://api.anar.biz/public/health",
     "slug": "prod-api",
     "status": "up",
-    "uptime": "100.00",
-    "time": 932
+    "uptime": "100.00%",
+    "time": 922
   },
   {
     "name": "Gitlab",
     "url": "https://vault.anar.biz",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 724
+    "status": "down",
+    "uptime": "99.11%",
+    "time": 709
   },
   {
     "name": "Sentry",
     "url": "https://sentry.anar.biz",
     "slug": "sentry",
     "status": "up",
-    "uptime": "100.00",
-    "time": 789
+    "uptime": "100.00%",
+    "time": 803
   },
   {
     "name": "Metrics",
     "url": "https://metrics.anar.biz",
     "slug": "metrics",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1166
+    "uptime": "100.00%",
+    "time": 1158
   },
   {
     "name": "QA mweb",
     "url": "https://staging.anar.biz",
     "slug": "qa-mweb",
     "status": "up",
-    "uptime": "100.00",
-    "time": 918
+    "uptime": "100.00%",
+    "time": 920
   },
   {
     "name": "QA",
     "url": "https://qa.anar.biz/public/health",
     "slug": "qa",
     "status": "up",
-    "uptime": "100.00",
-    "time": 3340
+    "uptime": "100.00%",
+    "time": 3041
   }
 ]
