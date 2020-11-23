@@ -19,9 +19,9 @@
     "name": "Gitlab",
     "url": "https://vault.anar.biz",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "98.24%",
-    "time": 709
+    "status": "up",
+    "uptime": "98.20%",
+    "time": 706
   },
   {
     "name": "Sentry",
