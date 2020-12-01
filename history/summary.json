@@ -5,7 +5,7 @@
     "slug": "landing",
     "status": "up",
     "uptime": "100.00%",
-    "time": 975
+    "time": 983
   },
   {
     "name": "Prod API",
@@ -13,15 +13,15 @@
     "slug": "prod-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 936
+    "time": 943
   },
   {
     "name": "Gitlab",
     "url": "https://vault.anar.biz",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "99.00%",
-    "time": 650
+    "uptime": "99.08%",
+    "time": 660
   },
   {
     "name": "Sentry",
@@ -29,7 +29,7 @@
     "slug": "sentry",
     "status": "up",
     "uptime": "100.00%",
-    "time": 792
+    "time": 819
   },
   {
     "name": "Metrics",
@@ -37,7 +37,7 @@
     "slug": "metrics",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1143
+    "time": 1154
   },
   {
     "name": "QA mweb",
@@ -45,7 +45,7 @@
     "slug": "qa-mweb",
     "status": "up",
     "uptime": "100.00%",
-    "time": 915
+    "time": 925
   },
   {
     "name": "QA",
@@ -53,6 +53,6 @@
     "slug": "qa",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2042
+    "time": 1983
   }
 ]
