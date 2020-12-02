@@ -51,8 +51,8 @@
     "name": "QA",
     "url": "https://qa.anar.biz/public/health",
     "slug": "qa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 2684
+    "time": 2604
   }
 ]
