@@ -20,7 +20,7 @@
     "url": "https://vault.anar.biz",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.87%",
     "time": 653
   },
   {
@@ -51,8 +51,8 @@
     "name": "QA",
     "url": "https://qa.anar.biz/public/health",
     "slug": "qa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1917
+    "time": 2684
   }
 ]
