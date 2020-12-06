@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 914,
-    "timeWeek": 981,
-    "timeMonth": 982,
-    "timeYear": 982
+    "time": 985,
+    "timeDay": 1054,
+    "timeWeek": 992,
+    "timeMonth": 985,
+    "timeYear": 985
   },
   {
     "name": "Prod API",
@@ -25,27 +25,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 958,
-    "timeWeek": 991,
-    "timeMonth": 957,
-    "timeYear": 957
+    "time": 961,
+    "timeDay": 1037,
+    "timeWeek": 999,
+    "timeMonth": 961,
+    "timeYear": 961
   },
   {
     "name": "Gitlab",
     "url": "https://vault.anar.biz",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.07%",
-    "time": 684,
-    "timeDay": 644,
-    "timeWeek": 677,
-    "timeMonth": 684,
-    "timeYear": 684
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
+    "time": 680,
+    "timeDay": 620,
+    "timeWeek": 676,
+    "timeMonth": 680,
+    "timeYear": 680
   },
   {
     "name": "Sentry",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 824,
-    "timeWeek": 891,
-    "timeMonth": 829,
-    "timeYear": 829
+    "time": 837,
+    "timeDay": 981,
+    "timeWeek": 915,
+    "timeMonth": 837,
+    "timeYear": 837
   },
   {
     "name": "Metrics",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1164,
-    "timeDay": 1189,
-    "timeWeek": 1198,
-    "timeMonth": 1164,
-    "timeYear": 1164
+    "time": 1169,
+    "timeDay": 1278,
+    "timeWeek": 1215,
+    "timeMonth": 1169,
+    "timeYear": 1169
   },
   {
     "name": "QA mweb",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 938,
-    "timeDay": 955,
-    "timeWeek": 978,
-    "timeMonth": 938,
-    "timeYear": 938
+    "time": 944,
+    "timeDay": 1060,
+    "timeWeek": 997,
+    "timeMonth": 944,
+    "timeYear": 944
   },
   {
     "name": "QA",
@@ -105,10 +105,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2391,
-    "timeDay": 934,
-    "timeWeek": 2643,
-    "timeMonth": 2391,
-    "timeYear": 2391
+    "time": 2332,
+    "timeDay": 1043,
+    "timeWeek": 2656,
+    "timeMonth": 2332,
+    "timeYear": 2332
   }
 ]
