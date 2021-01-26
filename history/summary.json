@@ -124,18 +124,19 @@
     "url": "https://qa.anar.biz/public/health",
     "icon": "https://favicons.githubusercontent.com/qa.anar.biz",
     "slug": "qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 1365,
-    "timeDay": 939,
-    "timeWeek": 972,
-    "timeMonth": 969,
-    "timeYear": 1365,
+    "time": 1360,
+    "timeDay": 937,
+    "timeWeek": 967,
+    "timeMonth": 968,
+    "timeYear": 1360,
     "dailyMinutesDown": {
+      "2021-01-26": 0,
       "2021-01-05": 32
     }
   }
