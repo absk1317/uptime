@@ -45,12 +45,12 @@
     "status": "up",
     "uptime": "99.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.62%",
+    "uptimeWeek": "96.52%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.22%",
     "time": 833,
     "timeDay": 1401,
-    "timeWeek": 981,
+    "timeWeek": 1020,
     "timeMonth": 1006,
     "timeYear": 833,
     "dailyMinutesDown": {
@@ -74,9 +74,9 @@
     "url": "https://sentry.anar.biz",
     "icon": "https://favicons.githubusercontent.com/sentry.anar.biz",
     "slug": "sentry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -86,6 +86,7 @@
     "timeMonth": 806,
     "timeYear": 874,
     "dailyMinutesDown": {
+      "2021-03-11": 0,
       "2020-12-15": 116
     }
   },
