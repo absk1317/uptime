@@ -4,10 +4,10 @@
     "url": "https://anar.biz",
     "icon": "https://favicons.githubusercontent.com/anar.biz",
     "slug": "landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 979,
@@ -16,6 +16,7 @@
     "timeMonth": 923,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2021-03-16": 1,
       "2021-02-21": 16
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://api.anar.biz/public/health",
     "icon": "https://favicons.githubusercontent.com/api.anar.biz",
     "slug": "prod-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 974,
@@ -35,7 +36,9 @@
     "timeWeek": 932,
     "timeMonth": 952,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-16": 1
+    }
   },
   {
     "name": "Gitlab",
@@ -114,9 +117,9 @@
     "url": "https://staging.anar.biz",
     "icon": "https://favicons.githubusercontent.com/staging.anar.biz",
     "slug": "qa-mweb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +128,9 @@
     "timeWeek": 909,
     "timeMonth": 926,
     "timeYear": 958,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-16": 0
+    }
   },
   {
     "name": "QA",
