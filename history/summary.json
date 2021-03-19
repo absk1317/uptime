@@ -34,7 +34,7 @@
     "time": 973,
     "timeDay": 993,
     "timeWeek": 947,
-    "timeMonth": 946,
+    "timeMonth": 943,
     "timeYear": 973,
     "dailyMinutesDown": {
       "2021-03-16": 47
@@ -137,7 +137,7 @@
     "url": "https://qa.anar.biz/public/health",
     "icon": "https://favicons.githubusercontent.com/qa.anar.biz",
     "slug": "qa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
