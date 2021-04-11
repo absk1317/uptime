@@ -25,17 +25,17 @@
     "url": "https://api.anar.biz/public/health",
     "icon": "https://favicons.githubusercontent.com/api.anar.biz",
     "slug": "prod-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 980,
-    "timeDay": 1001,
-    "timeWeek": 1017,
-    "timeMonth": 997,
-    "timeYear": 980,
+    "time": 982,
+    "timeDay": 1102,
+    "timeWeek": 1032,
+    "timeMonth": 1002,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2021-03-16": 47
     }
