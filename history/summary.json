@@ -137,7 +137,7 @@
     "url": "https://qa.anar.biz/public/health",
     "icon": "https://favicons.githubusercontent.com/qa.anar.biz",
     "slug": "qa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
