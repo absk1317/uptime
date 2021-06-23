@@ -104,9 +104,9 @@
     "url": "https://metrics.anar.biz",
     "icon": "https://favicons.githubusercontent.com/metrics.anar.biz",
     "slug": "metrics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -116,6 +116,7 @@
     "timeMonth": 1167,
     "timeYear": 1178,
     "dailyMinutesDown": {
+      "2021-06-23": 0,
       "2021-06-09": 30
     }
   },
