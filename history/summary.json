@@ -12,8 +12,8 @@
     "uptimeYear": "99.96%",
     "time": 972,
     "timeDay": 987,
-    "timeWeek": 918,
-    "timeMonth": 918,
+    "timeWeek": 927,
+    "timeMonth": 919,
     "timeYear": 972,
     "dailyMinutesDown": {
       "2021-06-12": 78,
@@ -34,8 +34,8 @@
     "uptimeYear": "99.99%",
     "time": 974,
     "timeDay": 973,
-    "timeWeek": 921,
-    "timeMonth": 936,
+    "timeWeek": 928,
+    "timeMonth": 938,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2021-03-16": 47
@@ -48,17 +48,16 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.58%",
     "time": 939,
     "timeDay": 741,
-    "timeWeek": 962,
-    "timeMonth": 1026,
+    "timeWeek": 972,
+    "timeMonth": 1023,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2021-07-04": 15,
       "2021-06-28": 15,
       "2021-06-26": 15,
       "2021-05-19": 19,
@@ -93,8 +92,8 @@
     "uptimeYear": "99.93%",
     "time": 931,
     "timeDay": 805,
-    "timeWeek": 794,
-    "timeMonth": 1347,
+    "timeWeek": 805,
+    "timeMonth": 1368,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2021-06-24": 48,
@@ -116,8 +115,8 @@
     "uptimeYear": "99.99%",
     "time": 1177,
     "timeDay": 1179,
-    "timeWeek": 1149,
-    "timeMonth": 1155,
+    "timeWeek": 1159,
+    "timeMonth": 1148,
     "timeYear": 1177,
     "dailyMinutesDown": {
       "2021-06-09": 30
@@ -136,8 +135,8 @@
     "uptimeYear": "99.99%",
     "time": 952,
     "timeDay": 960,
-    "timeWeek": 955,
-    "timeMonth": 916,
+    "timeWeek": 968,
+    "timeMonth": 918,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2021-03-16": 46
@@ -156,8 +155,8 @@
     "uptimeYear": "99.96%",
     "time": 1112,
     "timeDay": 1045,
-    "timeWeek": 1406,
-    "timeMonth": 1064,
+    "timeWeek": 1466,
+    "timeMonth": 1070,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2021-05-05": 42,
