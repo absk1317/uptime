@@ -13,7 +13,7 @@
     "time": 970,
     "timeDay": 847,
     "timeWeek": 954,
-    "timeMonth": 943,
+    "timeMonth": 946,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2021-06-12": 78,
@@ -35,7 +35,7 @@
     "time": 970,
     "timeDay": 874,
     "timeWeek": 927,
-    "timeMonth": 923,
+    "timeMonth": 924,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2021-03-16": 47
@@ -47,18 +47,17 @@
     "icon": "https://favicons.githubusercontent.com/vault.anar.biz",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.53%",
     "time": 937,
     "timeDay": 669,
     "timeWeek": 853,
-    "timeMonth": 939,
+    "timeMonth": 929,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2021-07-24": 15,
       "2021-07-18": 16,
       "2021-07-10": 302,
       "2021-06-28": 15,
@@ -96,7 +95,7 @@
     "time": 979,
     "timeDay": 650,
     "timeWeek": 756,
-    "timeMonth": 1252,
+    "timeMonth": 1269,
     "timeYear": 979,
     "dailyMinutesDown": {
       "2021-07-14": 77,
@@ -120,7 +119,7 @@
     "time": 1175,
     "timeDay": 1086,
     "timeWeek": 1160,
-    "timeMonth": 1156,
+    "timeMonth": 1153,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2021-06-09": 30
@@ -140,7 +139,7 @@
     "time": 949,
     "timeDay": 849,
     "timeWeek": 927,
-    "timeMonth": 929,
+    "timeMonth": 930,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2021-07-22": 22,
@@ -161,7 +160,7 @@
     "time": 1100,
     "timeDay": 849,
     "timeWeek": 931,
-    "timeMonth": 1067,
+    "timeMonth": 1073,
     "timeYear": 1100,
     "dailyMinutesDown": {
       "2021-07-18": 24,
